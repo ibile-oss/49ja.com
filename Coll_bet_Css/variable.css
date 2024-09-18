@@ -1,0 +1,24 @@
+:root{
+    --orange3-border:3px solid orange;
+    --orange2-border:2px groove orange;
+    --redy-border:1px solid darkred;
+    --redyb-:rgba(139, 0, 0, 0.08);
+    --bludy-border:1px solid darkblue;
+    --bludyb-:rgba(0, 0, 139, 0.09);
+    --yelody-border:1px solid yellow;
+    --yelodyb-:rgba(255, 255, 0, 0.157);
+    --blacky-border:1px solid black;
+    --blackyb-: rgba(0, 0, 0, 0.087);
+    --orange2a-border:1px groove gray;
+    --zerozero-one:#ccd0d5;
+    --shadding-shadow:0px 0.1px 5px rgba(0, 0, 0, .15);
+    --upbg-:rgb(7, 7, 74);
+    --colbet-color:rgb(87, 195, 87);
+    --colbet-color2:white;
+    --back-goly:rgba(255, 255, 255, 0.5);
+    --shad-:0 0.1rem 0.1rem 0px rgba(0, 0, 0, .15);
+    --shad2:2px 0rem 0.1rem 0px rgba(0, 0, 0, .15);
+    --shad3-:0 0 2px 0 rgba(0, 0, 0, .15);
+    --linear-grad:linear-gradient(rgb(45, 45, 115),rgb(112, 112, 50),rgb(77, 138, 77));
+    --linear-grad2:linear-gradient(rgb(45, 45, 115),rgb(112, 112, 50),rgb(86, 81, 50));
+}
